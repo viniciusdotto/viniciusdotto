@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Vinícius</h1>
-<h3 align="center">Sou desenvolvedor Full Stack</h3>
+<h3 align="center">Sou Analista de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusdotto&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusdotto" /> </p>
 
-- 🔭 Atualmente trabalho na **Webtech**
+- 🔭 Atualmente trabalho na **CAIXA**
 
 - 🌱 Estou aprendendo mais sobre **JS e Ruby on Rails**
 
