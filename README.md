@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusdotto&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusdotto" /> </p>
 
-- 🔭 Atualmente trabalho na **CAIXA**
+- 🔭 Atualmente trabalho no **Banco do Brasil**
 
-- 🌱 Estou aprendendo mais sobre **JS e Ruby on Rails**
+- 🌱 Estou aprendendo mais sobre **TypeScript e Angular**
 
 - 📫 Meu email é **viniciusdottopro@gmail.com**
 
